@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "o:\\Учеба\\C#\\sem1\\task0\\task0.csproj": {}
+    "O:\\Учеба\\C#\\sem1\\task0\\task0.csproj": {}
   },
   "projects": {
-    "o:\\Учеба\\C#\\sem1\\task0\\task0.csproj": {
+    "O:\\Учеба\\C#\\sem1\\task0\\task0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "o:\\Учеба\\C#\\sem1\\task0\\task0.csproj",
+        "projectUniqueName": "O:\\Учеба\\C#\\sem1\\task0\\task0.csproj",
         "projectName": "task0",
-        "projectPath": "o:\\Учеба\\C#\\sem1\\task0\\task0.csproj",
+        "projectPath": "O:\\Учеба\\C#\\sem1\\task0\\task0.csproj",
         "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
-        "outputPath": "o:\\Учеба\\C#\\sem1\\task0\\obj\\",
+        "outputPath": "O:\\Учеба\\C#\\sem1\\task0\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\home\\AppData\\Roaming\\NuGet\\NuGet.Config"
